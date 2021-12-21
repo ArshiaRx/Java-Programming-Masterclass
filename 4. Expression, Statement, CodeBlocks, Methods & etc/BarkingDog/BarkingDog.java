@@ -7,8 +7,6 @@
         In all other cases return false.
         If the hourOfDay parameter is less than 0 or greater than 23 return false.
 
-        Examples of input/output:
-
         * shouldWakeUp (true, 1); → should return true
         * shouldWakeUp (false, 2); → should return false since the dog is not barking.
         * shouldWakeUp (true, 8); → should return false, since it's not before 8.
