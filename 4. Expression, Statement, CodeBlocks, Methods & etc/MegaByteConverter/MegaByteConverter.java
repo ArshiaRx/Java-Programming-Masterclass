@@ -12,5 +12,6 @@ public class MegaByteConverter {
         }
         else {
             System.out.println(kiloBytes + " KB = " + MegaBytes + " MB and " + remaining + " KB");
-    }
-}}
+             }
+      }
+}
