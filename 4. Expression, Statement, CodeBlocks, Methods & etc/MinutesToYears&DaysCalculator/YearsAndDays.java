@@ -9,7 +9,7 @@ public class YearsAndDays {
         if (minutes < 0) {
             System.out.println("Invalid Value");
         }
-        //            1 hour --> day
+
         /* 1 hour = 60 minutes
          * 1 day = 24 hours
          * 1 year = 365 days*/
