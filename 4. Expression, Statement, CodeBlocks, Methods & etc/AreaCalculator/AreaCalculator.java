@@ -30,6 +30,4 @@ The method needs to return an area of a rectangle.*/
         return x * y;
     }
 /*If either or both parameters is/are a negative return -1.0 to indicate an invalid value.
-
 }
-
