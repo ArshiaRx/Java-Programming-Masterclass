@@ -27,11 +27,10 @@ public class calcFeetAndInchesToCentimeters {
             if (inches < 0){
                 return -1;
             }
-
+            
             double feet = (int) inches / 12;    // foot is 12 inches, feet is 1 inch
             double remainingInches = (int) inches % 12;
             System.out.println(inches + " inches is equal to " + feet + " feet and " + remainingInches);
             return calcFeetAndInchesToCentimeter(feet, inches);
         }
-
     }
