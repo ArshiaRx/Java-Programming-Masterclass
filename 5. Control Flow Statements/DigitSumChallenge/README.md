@@ -12,7 +12,9 @@ Add some code to the main method to test out the sumDigits method to determine t
 
 Hint: 
 	Use n % 10 to extract the least-significant digit.
+	
 	Use n = n / 10 to discard the least-significant digit.
+	
 	The method needs to be static like other methods so far in the course.
 
 Tip: 
