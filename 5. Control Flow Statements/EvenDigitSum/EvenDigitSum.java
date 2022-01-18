@@ -3,7 +3,6 @@ public class EvenDigitSum {
         System.out.println(getEvenDigitSum(123456789));   // should return 20
         System.out.println(getEvenDigitSum(252));      // should return 4
         System.out.println(getEvenDigitSum(-22));   // should return -1
-
     }
 
     public static int getEvenDigitSum(int number) {
