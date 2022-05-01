@@ -5,8 +5,9 @@
 
 *IN PROGRESS ...*
 
-=============
+===========================================================
 ### Contents:
+* Expressions, Statements, Code blcoks, Methods & More
 
 * Control Flow Statements
 
