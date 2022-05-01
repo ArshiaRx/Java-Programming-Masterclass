@@ -25,8 +25,3 @@ EXAMPLE INPUT/OUTPUT
 * isValid(468); → should return true since 468 is within the range of 10-1000
 
 * isValid(1051); → should return false since 1051 is not within the range of 10-1000
-
-
-NOTE: All methods need to be defined as public static as we have been doing so far in the course.
-
-NOTE: Do not add a main method to the solution code.
