@@ -57,10 +57,13 @@ Example Input/Output - numberToWords method
 NOTE: When printing words, each word can be in its own line. For example, numberToWords(123); can be:
 
 One
+
 Two
+
 Three
 
 They don't have to be separated by a space.
 
 NOTE: The methods numberToWords, getDigitCount, reverse should be defined as public static.
+
 NOTE: In total, you have to write 3 methods.
