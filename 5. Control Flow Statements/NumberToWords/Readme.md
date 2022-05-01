@@ -53,7 +53,6 @@ Example Input/Output - numberToWords method
 * numberToWords(-12); should print "Invalid Value" since the parameter is negative.
 
 
-HINT: Use a for loop to print zeroes after reversing the number. As seen in a previous example, 100 reversed becomes 1, but the method numberToWords should print "One Zero Zero". To get the number of zeroes, check the difference between the digit count from the original number and the reversed number.
 
 NOTE: When printing words, each word can be in its own line. For example, numberToWords(123); can be:
 
@@ -63,7 +62,5 @@ Three
 
 They don't have to be separated by a space.
 
-NOTE: The methods numberToWords, getDigitCount, reverse should be defined as public static like we have been doing so far in the course.
+NOTE: The methods numberToWords, getDigitCount, reverse should be defined as public static.
 NOTE: In total, you have to write 3 methods.
-
-NOTE: Do not add a main method to the solution code.
