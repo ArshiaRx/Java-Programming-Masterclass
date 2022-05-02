@@ -94,7 +94,7 @@ public class NumberToWords {
         }
     }
 
-    //Working on it
+    //Method Successful
     public static int reverse(int number) {                 //1212   2121
         int reverseNumber = 0;
         int LastDigit;
