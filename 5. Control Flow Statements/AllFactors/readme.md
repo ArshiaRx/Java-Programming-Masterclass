@@ -26,6 +26,9 @@ NOTE: When printing numbers, each number can be in its own line. They don't have
 For example, the printout for printFactors(10); can be:
 
 1
+
 2
+
 5
+
 10
