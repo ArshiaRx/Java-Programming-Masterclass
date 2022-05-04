@@ -1,6 +1,6 @@
-## Course Note *&* Exercises
-
-#### Course Notes
+<!--## Course Note *&* Exercises-->
+## Contents
+<!--#### Course Notes
 
 To see Notes go to Course Note folder..
 
@@ -11,8 +11,10 @@ To see Notes go to Course Note folder..
  > TheSwitchStatement
  > 
  > TheWhile&DoWhileStatement
+ -->
  
 ### Exercises
+-----------------------------------------
 
  > 12- Number in Word
  >
