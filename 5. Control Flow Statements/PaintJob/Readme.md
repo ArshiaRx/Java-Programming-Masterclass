@@ -17,11 +17,11 @@ If all parameters are valid, the method needs to calculate the number of buckets
 
 Examples of input/output:
 
-*getBucketCount(-3.4, 2.1, 1.5, 2); → should return -1 since the width parameter is invalid
+* getBucketCount(-3.4, 2.1, 1.5, 2); → should return -1 since the width parameter is invalid
 
-*getBucketCount(3.4, 2.1, 1.5, 2); → should return 3 since the wall area is 7.14, a single bucket can cover an area of 1.5 and Bob has 2 extra buckets home.
+* getBucketCount(3.4, 2.1, 1.5, 2); → should return 3 since the wall area is 7.14, a single bucket can cover an area of 1.5 and Bob has 2 extra buckets home.
 
-*getBucketCount(2.75, 3.25, 2.5, 1); → should return 3 since the wall area is 8.9375, a single bucket can cover an area of 2.5 and Bob has 1 extra bucket at home.
+* getBucketCount(2.75, 3.25, 2.5, 1); → should return 3 since the wall area is 8.9375, a single bucket can cover an area of 2.5 and Bob has 1 extra bucket at home.
 
 
 
@@ -38,11 +38,11 @@ If all parameters are valid, the method needs to calculate the number of buckets
 
 Examples of input/output:
 
-*getBucketCount(-3.4, 2.1, 1.5); → should return -1 since the width parameter is invalid
+* getBucketCount(-3.4, 2.1, 1.5); → should return -1 since the width parameter is invalid
 
-*getBucketCount(3.4, 2.1, 1.5); → should return 5 since the wall area is 7.14, and a single bucket can cover an area of 1.5.
+* getBucketCount(3.4, 2.1, 1.5); → should return 5 since the wall area is 7.14, and a single bucket can cover an area of 1.5.
 
-*getBucketCount(7.25, 4.3, 2.35); → should return 14 since the wall area is 31.175, and a single bucket can cover an area of 2.35.
+* getBucketCount(7.25, 4.3, 2.35); → should return 14 since the wall area is 31.175, and a single bucket can cover an area of 2.35.
 
 
 3. In some cases, Bob does not know the width and height of the wall but he knows the area of a wall. He needs you to write another method.
@@ -58,17 +58,15 @@ If all parameters are valid, the method needs to calculate the number of buckets
 
 Examples of input/output:
 
-*getBucketCount(3.4, 1.5); → should return 3 since the area is 3.4 and a single bucket can cover an area of 1.5
+* getBucketCount(3.4, 1.5); → should return 3 since the area is 3.4 and a single bucket can cover an area of 1.5
 
-*getBucketCount(6.26, 2.2); → should return 3 since the wall area is 6.26 and a single bucket can cover an area of 2.2.
+* getBucketCount(6.26, 2.2); → should return 3 since the wall area is 6.26 and a single bucket can cover an area of 2.2.
 
-*getBucketCount(3.26, 0.75); → should return 5 since the wall area is 3.26, and a single bucket can cover an area of 0.75 .
+* getBucketCount(3.26, 0.75); → should return 5 since the wall area is 3.26, and a single bucket can cover an area of 0.75 .
 
 Do your best to help Bob.
 
 
 NOTE: Use the method Math.ceil to round the number of calculated buckets (double) then convert it into an int before returning the value from the methods.
-
-NOTE: All methods should be defined as public static like we have been doing so far in the course.
 
 NOTE: Do not add the main method to the solution code.
