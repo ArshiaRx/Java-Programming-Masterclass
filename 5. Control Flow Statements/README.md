@@ -1,8 +1,10 @@
-## Contents
+## Course Note *&* Exercises
 ----------------------------
-### Exercises
+* Course Notes
 
-12- Number in Word
+* Exercises
+  *
+  * 12- Number in Word
 
 13- Number of Days In Month
 
