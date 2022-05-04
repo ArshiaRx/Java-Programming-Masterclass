@@ -2,6 +2,8 @@
 
 #### Course Notes
 
+To see Notes go to Course Note folder..
+
  > Sum3and5Challenge
  > 
  > TheForStatement
