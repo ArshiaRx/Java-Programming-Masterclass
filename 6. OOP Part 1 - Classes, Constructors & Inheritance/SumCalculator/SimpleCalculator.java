@@ -22,7 +22,7 @@ public class SimpleCalculator {
         this.secondNumber = secondNumb;
     }
 
-//    Additional
+//    Additional methods
     public double getAdditionResult(){
         return firstNumber+secondNumber;
     }
