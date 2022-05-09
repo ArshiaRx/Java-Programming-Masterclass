@@ -8,7 +8,7 @@ public class SimpleCalculator {
     public double getFirstNumber() {
         return firstNumber;
     }
-
+                                            //The getters are not used in this solution but they can also be written in a way that could be used
     public double getSecondNumber(){
         return secondNumber;
     }
