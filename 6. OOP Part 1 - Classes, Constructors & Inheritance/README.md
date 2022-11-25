@@ -22,6 +22,8 @@ To see Notes go to Course Note folder..
  >
  > 32- Wall Area
  >
- > 33 - Carpet Cost Calculator
+ > 33- Point
+ > 
+ > 34 - Carpet Cost Calculator
 
 ###### Contents will be added on daily basis ...
