@@ -16,36 +16,36 @@ To see Notes go to Course Note folder..
 ### Exercises
 -----------------------------------------
 
- > 12- Number in Word
+ > 13- Number in Word
  >
- > 13- Number of Days In Month
+ > 14- Number of Days In Month
  >
- > 14- Sum Odd
+ > 15- Sum Odd
  >
- > 15- Number Palindrome
+ > 16- Number Palindrome
  >
- > 16- First And Last Digit Sum
+ > 17- First And Last Digit Sum
  >
- > 17- Even Digit Sum
+ > 18- Even Digit Sum
  >
- > 18- Shared Digit
+ > 19- Shared Digit
  >
- > 19- Last Digit Checker
+ > 20- Last Digit Checker
  >
- > 20- Greatest Common Divisor
+ > 21- Greatest Common Divisor
  >
- > 21- All Factors
+ > 22- All Factors
  >
- > 22- Perfect Number
+ > 23- Perfect Number
  >
- > 23- Numbers To Words
+ > 24- Numbers To Words
  >
- > 24- Flour Pack Problem
+ > 25- Flour Pack Problem
  >
- > 25- Largest Prime
+ > 26- Largest Prime
  >
- > 26- Diagonal Star
+ > 27- Diagonal Star
  >
- > 27- Input Calculator
+ > 28- Input Calculator
  > 
- > 28- Paint Job
+ > 29- Paint Job
