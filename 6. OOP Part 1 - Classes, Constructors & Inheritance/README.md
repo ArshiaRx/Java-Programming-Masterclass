@@ -16,12 +16,12 @@ To see Notes go to Course Note folder..
 ### Exercises
 -----------------------------------------
 
- > 29- Sum Calculator
+ > 30- Sum Calculator
  >
- > 30- Person
+ > 31- Person
  >
- > 31- Wall Area
+ > 32- Wall Area
  >
- > 34 - Carpet Cost Calculator
+ > 33 - Carpet Cost Calculator
 
 ###### Contents will be added on daily basis ...
