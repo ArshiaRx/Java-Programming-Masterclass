@@ -41,5 +41,3 @@ public class Point {
         return Math.sqrt(distance);
     }
 }
-
-//Need to work On this
