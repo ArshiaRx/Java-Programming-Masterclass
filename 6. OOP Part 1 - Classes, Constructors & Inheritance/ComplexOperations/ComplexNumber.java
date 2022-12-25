@@ -3,10 +3,6 @@ public class ComplexNumber {
     //Instance Variables
     private double real, imaginary;
 
-    //Class
-    /*public ComplexNumber(){
-    }*/
-
     //Constructor
     public ComplexNumber(double real, double imaginary){
         this.real = real;
