@@ -48,6 +48,7 @@ Printing in duplex mode
 
 Pages printed was 1 new total print count for printer = 3
 
+----------------------------------------------------------------
 Tips:
 
 Remember to only paste the code from Printer class into the exercise evaluator. The Main class does not need to be pasted in.
