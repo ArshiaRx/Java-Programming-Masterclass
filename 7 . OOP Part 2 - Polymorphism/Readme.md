@@ -4,6 +4,7 @@
  > 
  > 39 - Encapsulation
  >
- > 40 - Polymorphism (Coming next)
+ > 40 - Polymorphism
  >
- > 41 -
+ > 41 - Bill's Burger (Coming Soon)
+ 
